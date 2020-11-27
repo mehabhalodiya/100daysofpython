@@ -21,11 +21,11 @@ A fun project would be to create yourself a Pomodoro Timer that incorporates dat
 
 ---
 
-### Pomodoro Technique - [see](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+#### Pomodoro Technique - [see](https://en.wikipedia.org/wiki/Pomodoro_Technique)
 
 ![plan](https://user-images.githubusercontent.com/12321741/72369481-459b5180-3711-11ea-9bb6-e6eed7a4a1e4.jpg)
 
-### It is important:
+#### It is important:
 **According to the principle of the Pomodoro technique - if you are
 distracted while doing work, then you must interrupt the current time
 and start a new Pomodoro. And this means that you need to write time in to
